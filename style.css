@@ -1,10 +1,10 @@
-body {background-color: salmon;}
-.header, .list {
+body {background-color: lightpink;}
+.header,{
     background-color: salmon;
     color: white;
     font: 800;
 }
-p, .list, h3 {color: white;}
+
 
 h1 {text-align: center;
     color: white;}
